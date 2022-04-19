@@ -1,0 +1,9 @@
+{
+  "chats": [
+    {
+      "id": 1,
+      "message": "Hello, how are you?",
+      "self": false
+    }
+  ]
+}
